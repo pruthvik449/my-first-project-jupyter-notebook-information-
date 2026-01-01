@@ -1,1 +1,1 @@
-# my-first-project-jupyter-notebook-information-
+This project focuses on extracting structured information from research papers using the NLTK module. It applies Natural Language Processing techniques such as tokenization, part-of-speech tagging, named entity recognition, and keyword extraction to identify important sections, terms, and insights from unstructured academic text.
